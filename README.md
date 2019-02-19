@@ -27,7 +27,7 @@ custompolicy: [
 ```
 
 ## Description
-###user: aws user  
-###attachedgroup: the group name of the user  
-###groupattachedpolicy: the policy of the group  
-###custompolicy: the policy of the specific user  
+### user:  aws user  
+### attachedgroup:  the group name of the user  
+### groupattachedpolicy:  the policy of the group  
+### custompolicy:  the policy of the specific user  
